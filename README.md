@@ -1,4 +1,4 @@
-### Well hello there!
+### Welcome to the main branch!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
