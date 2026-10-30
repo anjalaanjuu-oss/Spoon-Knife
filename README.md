@@ -1,4 +1,4 @@
-### Welcome to my feature branch!
+### Welcome to my feature branch and main branch!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
